@@ -2,10 +2,10 @@
 
 <tv generator-info-name="EPG Generator">
 <channel id="retromagico.ar">
-<display-name>retromagico.ar</display-name>
+<display-name>Retro Mágico</display-name>
 </channel>
 <channel id="magickids.ar">
-<display-name>magickids.ar</display-name>
+<display-name>Magic Kids</display-name>
 </channel>
 <programme start="20250401T000000 -0300" stop="20250401T003000 -0300" channel="retromagico.ar">
 <title>Detective Conan</title>
