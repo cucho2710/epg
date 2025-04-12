@@ -3,22 +3,44 @@
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="retromagico.ar" tvg-name="Retro Mágico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="Infantil" ,Retro Mágico
 http://home-playtv.com:8080/Oscardover2025/UXJYW/550155
+#EXTINF:-1 tvg-id="BabyFirst(Spanish).mx" tvg-name="BABY FIRST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78831_dark_360w_270h.png" group-title="Infantil",BABY FIRST
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/43504
+#EXTINF:-1 tvg-id="BabyTv.ar" tvg-name="BABY TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png" group-title="Infantil",BABY TV
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/3426
 #EXTINF:-1 tvg-id="Bitme(Spanish).mx" tvg-name="BitMe SD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72801_dark_360w_270h.png" group-title="Infantil",BitMe SD
 http://190.0.247.38:8000/play/a00h
+#EXTINF:-1 tvg-id="CartoonNetwork.ar" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png" group-title="Infantil",CARTOON NETWORK
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/43513
+#EXTINF:-1 tvg-id="Cartoonito.ar" tvg-name="CARTOONITO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png" group-title="Infantil",CARTOONITO
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/1911712
 #EXTINF:-1 tvg-id="ClanTv.co" tvg-name="Clan" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110045_dark_360w_270h.png" group-title="Infantil",Clan
 http://190.211.250.102:8000/play/a01j
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="Infantil",DISCOVERY KIDS
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/43520
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="Infantil",DISNEY CHANNEL
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/187886
 #EXTINF:-1 tvg-id="Dreamworks(Spanish).mx" tvg-name="Dreamworks" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123192_dark_360w_270h.png" group-title="Infantil",Dreamworks
 http://181.225.96.74:8080/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="Dreamworks(Spanish).mx" tvg-name="Dreamworks opc2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s123192_dark_360w_270h.png" group-title="Infantil",Dreamworks opc2
 http://181.78.15.155:9800/play/a022
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Locomotion TV [Not 24/7]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/300?cb=20200125124642&path-prefix=es" group-title="Infantil",Locomotion TV [Not 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.ar" tvg-name="NICK JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png" group-title="Infantil",NICK JR
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/187947
+#EXTINF:-1 tvg-id="Nick.ar" tvg-name="NICKELODEON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101208_dark_360w_270h.png" group-title="Infantil",NICKELODEON
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/13121
 #EXTINF:-1 tvg-id="Once(Spanish).mx" tvg-name="Once Kids" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png" group-title="Infantil",Once Kids
 http://45.167.255.254:8010/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick(Spanish).mx" tvg-name="TEEN NICK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png" group-title="Infantil",TEEN NICK
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/187989
+#EXTINF:-1 tvg-id="Tooncast(Spanish).mx" tvg-name="TOONCAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Infantil",TOONCAST
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/9787
 #EXTINF:-1 tvg-id="Tooncast(Spanish).mx" tvg-name="Tooncast 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Infantil",Tooncast 2
 http://181.78.21.46:8009/play/a03l
 #EXTINF:-1 tvg-id="Tooncast(Spanish).mx" tvg-name="Tooncast 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Infantil",Tooncast 3
 http://181.78.1.190:8000/play/a12w
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Toonz Kids" tvg-logo="https://www.broadcastprome.com/wp-content/uploads/2021/11/ToonzKids.jpg" group-title="Infantil",Toonz Kids
+https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/252618
 #EXTINF:-1 tvg-id="ZooMoo(Spanish).mx" tvg-name="ZooMoo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89920_dark_360w_270h.png" group-title="Infantil",ZooMoo
 http://38.44.109.41:8003/play/a025
 #EXTINF:-1 tvg-id="Atreseries.ar" tvg-name="A3 SERIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90917_dark_360w_270h.png" group-title="Cine",A3 SERIES
@@ -65,9 +87,9 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/13894
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/59123
 #EXTINF:-1 tvg-id="HBOPlus(Spanish).mx" tvg-name="HBO+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Cine",HBO+
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/43538
-#EXTINF:-1 tvg-id="MovistarPlusplus(src01).es" tvg-name="MOVISTAR PLUS" tvg-logo="" group-title="Cine",MOVISTAR PLUS
+#EXTINF:-1 tvg-id="MovistarPlusplus(src01).es" tvg-name="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar%2B_Logo.png/1280px-Movistar%2B_Logo.png" group-title="Cine",MOVISTAR PLUS
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/222301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTICINEMA" tvg-logo="" group-title="Cine",MULTICINEMA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MULTICINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/MULTICINEMA.png/revision/latest?cb=20230304224643&path-prefix=es" group-title="Cine",MULTICINEMA
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/189700
 #EXTINF:-1 tvg-id="Multipremier(Spanish).mx" tvg-name="MULTIPREMIER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="Cine",MULTIPREMIER
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/189605
@@ -205,9 +227,9 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/81322
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/213160
 #EXTINF:-1 tvg-id="MovistarDeportes(Spanish).es" tvg-name="MOVISTAR DEPORTES | PE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="Deportivo",MOVISTAR DEPORTES | PE
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/222300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS 3 SD | CL" tvg-logo="" group-title="Deportivo",TNT SPORTS 3 SD | CL
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS 3 SD | CL" tvg-logo="" group-title="Deportivo",TNT SPORTS 3 SD | CL
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/187979
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS PREMIUM | CL*" tvg-logo="" group-title="Deportivo",TNT SPORTS PREMIUM | CL*
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS PREMIUM | CL*" tvg-logo="" group-title="Deportivo",TNT SPORTS PREMIUM | CL*
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/7
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORTS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png" group-title="Deportivo",TyC SPORTS
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/227046
@@ -215,23 +237,23 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/227046
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/183280
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="Deportivo",WIN SPORTS+
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/46973
-#EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="Deportivo",ESPN Premium
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="Deportivo",ESPN Premium
 http://143.0.67.77:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="fox.sports.premium.ar" tvg-name="ESPN Premium opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="Deportivo",ESPN Premium opc2
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN Premium opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/640px-ESPN_Premium_logo.svg.png" group-title="Deportivo",ESPN Premium opc2
 http://190.104.67.21:234/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports
 http://143.0.67.77:8000/play/a0bc/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc2
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc2
 http://190.104.67.77:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc3
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc3
 http://190.104.67.91:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc4
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc4
 http://190.104.67.25:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc5
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc5
 http://190.104.67.35:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc5
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc5
 http://190.104.67.52:234/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT Sports opc6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc6
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT Sports opc6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/TNT_Sports_Logo_%282017%29.png" group-title="Deportivo",TNT Sports opc6
 http://190.104.67.50:234/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="Venus.ar" tvg-name="VENUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16498_dark_360w_270h.png" group-title="VIP",VENUS
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/3282
@@ -249,9 +271,9 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/160524
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16905
 #EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" group-title="HD-Infantil",DISCOVERY KIDS ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/757
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY CHANNEL ᴴᴰ" tvg-logo="" group-title="HD-Infantil",DISNEY CHANNEL ᴴᴰ
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s41223_dark_360w_270h.png" group-title="HD-Infantil",DISNEY CHANNEL ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16908
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISNEY JR ᴴᴰ" tvg-logo="" group-title="HD-Infantil",DISNEY JR ᴴᴰ
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JR ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60506_dark_360w_270h.png" group-title="HD-Infantil",DISNEY JR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16909
 #EXTINF:-1 tvg-id="Nick.ar" tvg-name="NICK ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101208_dark_360w_270h.png" group-title="HD-Infantil",NICK ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/58204
@@ -279,11 +301,11 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172534
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/183274
 #EXTINF:-1 tvg-id="CineLatino(Spanish).mx" tvg-name="CINE LATINO ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_dark_360w_270h.png" group-title="HD-Cine",CINE LATINO ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/24648
-#EXTINF:-1 tvg-id="cine" tvg-name="CINE PREMIERE ᴴᴰ" tvg-logo="" group-title="HD-Cine",CINE PREMIERE ᴴᴰ
+#EXTINF:-1 tvg-id="cine" tvg-name="CINE PREMIERE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo-cine-premiere.png" group-title="HD-Cine",CINE PREMIERE ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/207237
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL SUR ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="HD-Cine",CINECANAL SUR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/2833
-#EXTINF:-1 tvg-id="cine" tvg-name="CINEMA DINAMITA ᴴᴰ" tvg-logo="" group-title="HD-Cine",CINEMA DINAMITA ᴴᴰ
+#EXTINF:-1 tvg-id="cine" tvg-name="CINEMA DINAMITA ᴴᴰ" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11737_7_225568.png.87715f04187550a6a7bbee49499371c1.png" group-title="HD-Cine",CINEMA DINAMITA ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/53020
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="HD-Cine",CINEMAX ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16903
@@ -329,7 +351,7 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172489
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172521
 #EXTINF:-1 tvg-id="MovistarAccion(Spanish).es" tvg-name="M+ ACCION ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86942_dark_360w_270h.png" group-title="HD-Cine",M+ ACCION ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172488
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ CLASICOS ᴴᴰ" tvg-logo="" group-title="HD-Cine",M+ CLASICOS ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ CLASICOS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="HD-Cine",M+ CLASICOS ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172505
 #EXTINF:-1 tvg-id="MovistarCineN(Spanish).es" tvg-name="M+ DCINE ESPANOL ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86948_dark_360w_270h.png" group-title="HD-Cine",M+ DCINE ESPANOL ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172495
@@ -341,7 +363,7 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/189604
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172528
 #EXTINF:-1 tvg-id="ParamountNetwork.ar" tvg-name="PARAMOUNT NETWORK ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="HD-Cine",PARAMOUNT NETWORK ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/3268
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY CHANNEL  ARᴴᴰ" tvg-logo="" group-title="HD-Cine",SONY CHANNEL  ARᴴᴰ
+#EXTINF:-1 tvg-id="CanalSony.ar" tvg-name="SONY CHANNEL  ARᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71721_dark_360w_270h.png" group-title="HD-Cine",SONY CHANNEL  ARᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/27799
 #EXTINF:-1 tvg-id="SonyMovies.ar" tvg-name="SONY MOVIES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" group-title="HD-Cine",SONY MOVIES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/114820
@@ -411,27 +433,27 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16929
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/2826
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.ar" tvg-name="DISCOVERY H&H ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="HD-Interes General",DISCOVERY H&H ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/57255
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY SCIENCE ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DISCOVERY SCIENCE ᴴᴰ
+#EXTINF:-1 tvg-id="DiscoveryScience(Spanish).mx" tvg-name="DISCOVERY SCIENCE ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="HD-Interes General",DISCOVERY SCIENCE ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/30423
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY THEATHER ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DISCOVERY THEATHER ᴴᴰ
+#EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-name="DISCOVERY THEATHER ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="HD-Interes General",DISCOVERY THEATHER ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/13969
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY TURBO ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DISCOVERY TURBO ᴴᴰ
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="HD-Interes General",DISCOVERY TURBO ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/914
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DISCOVERY WORLD ᴴᴰ
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="HD-Interes General",DISCOVERY WORLD ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/1639
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISTRITO COMEDIA ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DISTRITO COMEDIA ᴴᴰ
+#EXTINF:-1 tvg-id="DistritoComedia(Spanish).mx" tvg-name="DISTRITO COMEDIA ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55980_dark_360w_270h.png" group-title="HD-Interes General",DISTRITO COMEDIA ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/59612
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DNEWS LATAM ᴴᴰ" tvg-logo="" group-title="HD-Interes General",DNEWS LATAM ᴴᴰ
+#EXTINF:-1 tvg-id="DNews.ar" tvg-name="DNEWS LATAM ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png" group-title="HD-Interes General",DNEWS LATAM ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/171137
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL GOURMET ᴴᴰ" tvg-logo="" group-title="HD-Interes General",EL GOURMET ᴴᴰ
+#EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="EL GOURMET ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_dark_360w_270h.png" group-title="HD-Interes General",EL GOURMET ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/3425
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL NUEVE ᴴᴰ" tvg-logo="" group-title="HD-Interes General",EL NUEVE ᴴᴰ
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="EL NUEVE ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16882_dark_360w_270h.png" group-title="HD-Interes General",EL NUEVE ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/1632
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL TRECE ᴴᴰ" tvg-logo="" group-title="HD-Interes General",EL TRECE ᴴᴰ
+#EXTINF:-1 tvg-id="Canal13.ar" tvg-name="EL TRECE ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107771_dark_360w_270h.png" group-title="HD-Interes General",EL TRECE ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/13226
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL TRECE INT ᴴᴰ" tvg-logo="" group-title="HD-Interes General",EL TRECE INT ᴴᴰ
+#EXTINF:-1 tvg-id="Canal13.ar" tvg-name="EL TRECE INT ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s107771_dark_360w_270h.png" group-title="HD-Interes General",EL TRECE INT ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/187903
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENCUENTRO ᴴᴰ" tvg-logo="" group-title="HD-Interes General",ENCUENTRO ᴴᴰ
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="ENCUENTRO ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_dark_360w_270h.png" group-title="HD-Interes General",ENCUENTRO ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/171110
 #EXTINF:-1 tvg-id="FoodNetwork.ar" tvg-name="FOOD NETWORK ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91919_dark_360w_270h.png" group-title="HD-Interes General",FOOD NETWORK ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/9791
@@ -475,7 +497,7 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/167088
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/172540
 #EXTINF:-1 tvg-id="PasionesTV.ar" tvg-name="PASIONES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71621_dark_360w_270h.png" group-title="HD-Interes General",PASIONES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16920
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS 1 ᴴᴰ" tvg-logo="" group-title="HD-Interes General",RETRO PLUS 1 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RETRO PLUS 1 ᴴᴰ" tvg-logo="https://retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg?ts=1739831336" group-title="HD-Interes General",RETRO PLUS 1 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/24076
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STINGRAY CONCERTS ᴴᴰ" tvg-logo="" group-title="HD-Interes General",STINGRAY CONCERTS ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/116277
@@ -499,59 +521,59 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/171115
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/9797
 #EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="CLARO SPORTS 1 ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="HD-Deportivo",CLARO SPORTS 1 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/59084
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO SPORTS 2 ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",CLARO SPORTS 2 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO SPORTS 2 ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="HD-Deportivo",CLARO SPORTS 2 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/103887
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO SPORTS 3 ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",CLARO SPORTS 3 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CLARO SPORTS 3 ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png" group-title="HD-Deportivo",CLARO SPORTS 3 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/239493
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 1 | AR ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",ESPN 1 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-name="ESPN 1 | AR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="HD-Deportivo",ESPN 1 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/16497
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 | AR ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",ESPN 2 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="622dtv.ar" tvg-name="ESPN 2 | AR ᴴᴰ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="HD-Deportivo",ESPN 2 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/81343
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 3 | AR ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",ESPN 3 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="1623dtv.ar" tvg-name="ESPN 3 | AR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="HD-Deportivo",ESPN 3 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/81344
 #EXTINF:-1 tvg-id="ESPN4Sur.ar" tvg-name="ESPN 4 | AR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="HD-Deportivo",ESPN 4 | AR
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/233788
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN EXTRA+ ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",ESPN EXTRA+ ᴴᴰ
+#EXTINF:-1 tvg-id="203mvstr.ar" tvg-name="ESPN EXTRA+ ᴴᴰ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/espn_plus_fc_pos_c2db08be.png?region=0%2C494%2C2667%2C1500" group-title="HD-Deportivo",ESPN EXTRA+ ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/221218
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN PREMIUM | AR ᴴᴰ*" tvg-logo="" group-title="HD-Deportivo",ESPN PREMIUM | AR ᴴᴰ*
+#EXTINF:-1 tvg-id="1604dtv.ar" tvg-name="ESPN PREMIUM | AR ᴴᴰ*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="HD-Deportivo",ESPN PREMIUM | AR ᴴᴰ*
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/11476
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN PREMIUM | CL ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",ESPN PREMIUM | CL ᴴᴰ
+#EXTINF:-1 tvg-id="4399dtv.cl" tvg-name="ESPN PREMIUM | CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png" group-title="HD-Deportivo",ESPN PREMIUM | CL ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/24404
-#EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="FOX SPORTS 1 | AR ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",FOX SPORTS 1 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="FOXSPORTS.ar" tvg-name="FOX SPORTS 1 | AR ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="HD-Deportivo",FOX SPORTS 1 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/29781
 #EXTINF:-1 tvg-id="FoxSports2(Argentina).ar" tvg-name="FOX SPORTS 2 | AR ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66365_dark_360w_270h.png" group-title="HD-Deportivo",FOX SPORTS 2 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/81341
-#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="FOX SPORTS 3 | AR ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",FOX SPORTS 3 | AR ᴴᴰ
+#EXTINF:-1 tvg-id="FoxSports3(Argentina).ar" tvg-name="FOX SPORTS 3 | AR ᴴᴰ" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_08/large.491159942_FOXSports3.png.2ab6e717b6cf8ac7145ec7bd3d3a90d9.png" group-title="HD-Deportivo",FOX SPORTS 3 | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/81342
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM | MX ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",FOX SPORTS PREMIUM | MX ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX SPORTS PREMIUM | MX ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="HD-Deportivo",FOX SPORTS PREMIUM | MX ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/29785
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV | EC ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",GOL TV | EC ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOL TV | EC ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="HD-Deportivo",GOL TV | EC ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/166913
 #EXTINF:-1 tvg-id="MovistarDeportes(Spanish).es" tvg-name="MOVISTAR DEPORTES 1 | ES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR DEPORTES 1 | ES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/23243
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",MOVISTAR DEPORTES 2 | ES ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR DEPORTES 2 | ES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/27023
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",MOVISTAR DEPORTES 2 | ES ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR DEPORTES 2 | ES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/60437
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 3 | ES ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",MOVISTAR DEPORTES 3 | ES ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES 3 | ES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR DEPORTES 3 | ES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/60391
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA TV 1 ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",MOVISTAR LA LIGA TV 1 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA TV 1 ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR LA LIGA TV 1 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/65683
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LALIGA TV 1 ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",MOVISTAR LALIGA TV 1 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LALIGA TV 1 ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86945_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR LALIGA TV 1 ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/168252
 #EXTINF:-1 tvg-id="MovistarLigadeCampeones(Spanish).es" tvg-name="MOVISTAR LIGA DE CAMPEONES ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109869_dark_360w_270h.png" group-title="HD-Deportivo",MOVISTAR LIGA DE CAMPEONES ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/160243
 #EXTINF:-1 tvg-id="RealMadridTV(Spanish).mx" tvg-name="REAL MADRID TV ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109784_dark_360w_270h.png" group-title="HD-Deportivo",REAL MADRID TV ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/166703
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS | AR ᴴᴰ*" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ*
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT SPORTS | AR ᴴᴰ*" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ*
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/25121
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS | AR ᴴᴰ**" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ**
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT SPORTS | AR ᴴᴰ**" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ**
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/213161
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS | AR ᴴᴰ***" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ***
+#EXTINF:-1 tvg-id="603dtv.ar" tvg-name="TNT SPORTS | AR ᴴᴰ***" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="HD-Deportivo",TNT SPORTS | AR ᴴᴰ***
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/213178
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS | CLᴴᴰ" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS | CLᴴᴰ
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS | CLᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="HD-Deportivo",TNT SPORTS | CLᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/191452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TNT SPORTS PREMIUM HD| CL ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",TNT SPORTS PREMIUM HD| CL ᴴᴰ
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-name="TNT SPORTS PREMIUM HD| CL ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="HD-Deportivo",TNT SPORTS PREMIUM HD| CL ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/184411
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC SPORTS | AR ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90677_dark_360w_270h.png" group-title="HD-Deportivo",TyC SPORTS | AR ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/214554
@@ -559,7 +581,7 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/214554
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/60567
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="WIN SPORTS ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="HD-Deportivo",WIN SPORTS ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/43579
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIN SPORTS+ ᴴᴰ" tvg-logo="" group-title="HD-Deportivo",WIN SPORTS+ ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WIN SPORTS+ ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87031_dark_360w_270h.png" group-title="HD-Deportivo",WIN SPORTS+ ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/1164
 #EXTINF:-1 tvg-id="PlayboyTV.ar" tvg-name="PLAYBOY ᴴᴰ" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16788_dark_360w_270h.png" group-title="HD-VIP",PLAYBOY ᴴᴰ
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/1177
@@ -707,7 +729,7 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/114414
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/119351
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr. BEAN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/Mr_Bean.png" group-title="24/7",Mr. BEAN
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/214270
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDO INFANTIL" tvg-logo="" group-title="24/7",MUNDO INFANTIL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDO Infantil" tvg-logo="" group-title="24/7",MUNDO Infantil
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/214264
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAW PATROL" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Paw-Patrol-logo.png" group-title="24/7",PAW PATROL
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/118620
@@ -735,4 +757,3 @@ https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/109547
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/238710
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UN SHOW MAS" tvg-logo="https://stickersbits.com/cdn/shop/products/UN_SHOW_MAS_-_1_0894845e-416d-4e0e-a15d-657d45893b6c.png?v=1702165238" group-title="24/7",UN SHOW MAS
 https://nxt.plus:8443/danielepg/VuvpPJy6bvfh/224860
-
