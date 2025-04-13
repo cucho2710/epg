@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/cucho2710/epg/refs/heads/main/epgretromagico.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/cucho2710/epg/refs/heads/main/epgretromagico.xml,https://epg.programadorx.cl/mdiaz/gratis.xml"
 #EXTINF:-1 tvg-id="magickids.ar" tvg-name="Magic Kids" tvg-logo="https://cdn.m3u.cl/logo/1304_Magic_Kids.png" group-title="Infantil",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="retromagico.ar" tvg-name="Retro Mágico" tvg-logo="https://i.imgur.com/qFndbzN.png" group-title="Infantil" ,Retro Mágico
